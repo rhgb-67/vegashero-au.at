@@ -1,0 +1,11 @@
+name = "vegashero-au-at"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=vegashero-au.at"
+HMAC_KEY = "43989e4d9d5815839c2ed63c58ce8dd24efecbe2ac9672edb02c19f84287afdc"
+COOKIE_NAME = "355"
+PLAY_PATH = "start-now"
+BUTTON_ID = "p394ec543f6ef2707daf18b5958a3466b"
+GATE_SALT = "c3e77079a9781408"
